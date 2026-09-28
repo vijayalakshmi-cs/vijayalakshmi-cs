@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi everyone! 👋
+
+I’m a 2nd-year Engineering student passionate about technology and software development. I’m currently exploring Java, Python, Full-Stack Web Development, Cloud Computing, AWS, and DevOps.
+
+I enjoy learning by building projects and solving real-world problems. One of my key projects is an IoT-based Smart Laser Safety Shoe for Women, which combines ESP32, GPS, and GSM technologies to provide emergency assistance.
+
+I’m continuously learning, experimenting with new technologies, and improving my coding and problem-solving skills. I’m excited to connect with fellow developers, collaborate on projects, and grow together in the tech community. 🚀
